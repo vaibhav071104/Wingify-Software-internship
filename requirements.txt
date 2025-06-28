@@ -1,0 +1,8 @@
+crewai==0.35.8
+fastapi==0.111.0
+python-dotenv==1.0.1
+python-multipart==0.0.9
+pypdf2==3.0.1
+uvicorn==0.30.1
+pydantic==2.8.0
+httpx==0.27.2
