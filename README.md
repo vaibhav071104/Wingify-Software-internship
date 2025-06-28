@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Setup and Execution Guide
 
 ## Getting Started
@@ -325,3 +326,6 @@ For any issues or questions, please create an issue in the repository or contact
 ---
 
 **Note**: This system is for informational purposes only and should not replace professional medical advice. Always consult healthcare professionals for medical decisions.
+=======
+# Wingify-Software-internship
+>>>>>>> ae60b09f22bbd6ab5722c1d57408fc4da598f40f
